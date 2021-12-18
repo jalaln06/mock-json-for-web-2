@@ -1,0 +1,61 @@
+{
+  "tasks": [
+    {
+      "stack": "nux",
+      "payment_per_hour": 7,
+      "hours_to_work": 9,
+      "rating_wanted": 4
+    },
+    {
+      "stack": "react",
+      "payment_per_hour": 7,
+      "hours_to_work": 10,
+      "rating_wanted": 5
+    },
+    {
+      "stack": "node",
+      "payment_per_hour": 20,
+      "hours_to_work": 30,
+      "rating_wanted": 5
+    },
+    {
+      "stack": "vue",
+      "payment_per_hour": 14,
+      "hours_to_work": 300,
+      "rating_wanted": 5
+    },
+    {
+      "stack": "react",
+      "payment_per_hour": 20,
+      "hours_to_work": 400,
+      "rating_wanted": 3
+    },
+    {
+      "stack": "react",
+      "payment_per_hour": 3,
+      "hours_to_work": 4,
+      "rating_wanted": 1
+    },
+    {
+      "stack": "nux",
+      "payment_per_hour": 67,
+      "hours_to_work": 30000,
+      "rating_wanted": 5
+    },
+    {
+      "stack": "vue",
+      "payment_per_hour": 5,
+      "hours_to_work": 5,
+      "rating_wanted": 5
+    },
+    {
+      "stack": "alpha",
+      "payment_per_hour": 9,
+      "hours_to_work": 13,
+      "rating_wanted": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
